@@ -1,0 +1,41 @@
+
+body{
+    justify-content: center;
+    align: center;
+    width: 500px;
+    display: flex;
+
+    height: 690px;
+    
+ }
+.tables{
+    
+    background-color: rgb(155, 187, 247);
+    /* background-color: white; */
+    border: 1px solid;
+    
+    align-content: center;
+    margin-left: 50%;
+    padding: 10%;
+    border-spacing: 2px;
+    width: 100px;
+}
+/* #one{
+    margin-bottom: 4%;
+    padding-bottom: 1%;
+    color: black; */
+}
+.starter{
+background-color: rgb(51, 116,238);
+
+}
+.rr{
+    padding: 2%;
+    width: 100%;
+}
+.merge{
+    width: 98%;
+}
+textarea{
+    overflow: scroll;
+}
